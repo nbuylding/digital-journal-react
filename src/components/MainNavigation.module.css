@@ -1,0 +1,24 @@
+.header {
+	padding: 48px;
+}
+
+.header ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+li {
+	list-style: none;
+}
+
+li a {
+	color: #dddddd;
+	text-decoration: none;
+	margin: 0 16px;
+	font-size: 18px;
+}
+
+a:hover {
+	color: #143d73;
+}

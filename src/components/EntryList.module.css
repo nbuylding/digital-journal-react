@@ -1,0 +1,13 @@
+.list {
+	display: block;
+	margin: 16px auto;
+	text-align: center;
+}
+
+.list li {
+	margin: 8px 0;
+}
+
+.link {
+	text-transform: capitalize;
+}
